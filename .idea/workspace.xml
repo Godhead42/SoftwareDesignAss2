@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="985fd55d-79a6-402a-b8bc-802b190a6e9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BasicComputer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComputerDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GraphicsCardDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HighPerformanceProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MemoryDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Processor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProcessorDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsffds.java" beforeDir="false" />
-    </list>
+    <list default="true" id="985fd55d-79a6-402a-b8bc-802b190a6e9a" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +41,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -66,8 +54,16 @@
       <option name="presentableId" value="Default" />
       <updated>1696824672177</updated>
       <workItem from="1696824673557" duration="6000" />
-      <workItem from="1697172311299" duration="5622000" />
+      <workItem from="1697172311299" duration="5916000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1697178204888</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697178204889</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,10 +74,20 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
